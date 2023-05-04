@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hollo modify2 in local  
+=======
+hollo modify3 in github  
+>>>>>>> refs/remotes/origin/main
